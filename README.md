@@ -1,5 +1,4 @@
----  GitHub 
----  This has some of my developmet projects ..
+--- GitHub profile
 
 <!---
 ka24e/ka24e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
